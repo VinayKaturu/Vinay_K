@@ -4,5 +4,5 @@ import pandas as pd
 st.write("hello welcome")
 
 st.text("text")
-df=pd.tead_csv('requirement.txt')
+df=pd.tead_csv('requirements.txt', sep=|)
 
